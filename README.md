@@ -32,3 +32,9 @@ PdfBotAutomation é um bot de automação desenvolvido em .NET que processa curr
   ```bash
   git clone https://github.com/SEU_USUARIO/PdfBotAutomation.git
   cd PdfBotAutomation
+
+### 2. Configurar pastas de currículos e pasta de outPut para o excel
+
+- Certifique-se de por no projeto os caminhos corretos.
+
+### 3. Compile e rode o projeto.
