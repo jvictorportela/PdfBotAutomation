@@ -1,0 +1,17 @@
+C:\ProjetosPessoais\PdfBotAutomation\PdfBotAutomation.Application\obj\Debug\net8.0\PdfBotAutomation.Application.csproj.AssemblyReference.cache
+C:\ProjetosPessoais\PdfBotAutomation\PdfBotAutomation.Application\obj\Debug\net8.0\PdfBotAutomation.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosPessoais\PdfBotAutomation\PdfBotAutomation.Application\obj\Debug\net8.0\PdfBotAutomation.Application.AssemblyInfoInputs.cache
+C:\ProjetosPessoais\PdfBotAutomation\PdfBotAutomation.Application\obj\Debug\net8.0\PdfBotAutomation.Application.AssemblyInfo.cs
+C:\ProjetosPessoais\PdfBotAutomation\PdfBotAutomation.Application\obj\Debug\net8.0\PdfBotAutomation.Application.csproj.CoreCompileInputs.cache
+C:\ProjetosPessoais\PdfBotAutomation\PdfBotAutomation.Application\bin\Debug\net8.0\PdfBotAutomation.Application.deps.json
+C:\ProjetosPessoais\PdfBotAutomation\PdfBotAutomation.Application\bin\Debug\net8.0\PdfBotAutomation.Application.dll
+C:\ProjetosPessoais\PdfBotAutomation\PdfBotAutomation.Application\bin\Debug\net8.0\PdfBotAutomation.Application.pdb
+C:\ProjetosPessoais\PdfBotAutomation\PdfBotAutomation.Application\bin\Debug\net8.0\PdfBotAutomation.Domain.dll
+C:\ProjetosPessoais\PdfBotAutomation\PdfBotAutomation.Application\bin\Debug\net8.0\PdfBotAutomation.Infrastructure.dll
+C:\ProjetosPessoais\PdfBotAutomation\PdfBotAutomation.Application\bin\Debug\net8.0\PdfBotAutomation.Domain.pdb
+C:\ProjetosPessoais\PdfBotAutomation\PdfBotAutomation.Application\bin\Debug\net8.0\PdfBotAutomation.Infrastructure.pdb
+C:\ProjetosPessoais\PdfBotAutomation\PdfBotAutomation.Application\obj\Debug\net8.0\PdfBotAu.6F31507D.Up2Date
+C:\ProjetosPessoais\PdfBotAutomation\PdfBotAutomation.Application\obj\Debug\net8.0\PdfBotAutomation.Application.dll
+C:\ProjetosPessoais\PdfBotAutomation\PdfBotAutomation.Application\obj\Debug\net8.0\refint\PdfBotAutomation.Application.dll
+C:\ProjetosPessoais\PdfBotAutomation\PdfBotAutomation.Application\obj\Debug\net8.0\PdfBotAutomation.Application.pdb
+C:\ProjetosPessoais\PdfBotAutomation\PdfBotAutomation.Application\obj\Debug\net8.0\ref\PdfBotAutomation.Application.dll

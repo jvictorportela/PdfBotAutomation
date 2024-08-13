@@ -1,0 +1,15 @@
+C:\ProjetosPessoais\PdfBotAutomation\PdfBotAutomation.Infrastructure\obj\Debug\net8.0\PdfBotAutomation.Infrastructure.csproj.AssemblyReference.cache
+C:\ProjetosPessoais\PdfBotAutomation\PdfBotAutomation.Infrastructure\obj\Debug\net8.0\PdfBotAutomation.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosPessoais\PdfBotAutomation\PdfBotAutomation.Infrastructure\obj\Debug\net8.0\PdfBotAutomation.Infrastructure.AssemblyInfoInputs.cache
+C:\ProjetosPessoais\PdfBotAutomation\PdfBotAutomation.Infrastructure\obj\Debug\net8.0\PdfBotAutomation.Infrastructure.AssemblyInfo.cs
+C:\ProjetosPessoais\PdfBotAutomation\PdfBotAutomation.Infrastructure\obj\Debug\net8.0\PdfBotAutomation.Infrastructure.csproj.CoreCompileInputs.cache
+C:\ProjetosPessoais\PdfBotAutomation\PdfBotAutomation.Infrastructure\bin\Debug\net8.0\PdfBotAutomation.Infrastructure.deps.json
+C:\ProjetosPessoais\PdfBotAutomation\PdfBotAutomation.Infrastructure\bin\Debug\net8.0\PdfBotAutomation.Infrastructure.dll
+C:\ProjetosPessoais\PdfBotAutomation\PdfBotAutomation.Infrastructure\bin\Debug\net8.0\PdfBotAutomation.Infrastructure.pdb
+C:\ProjetosPessoais\PdfBotAutomation\PdfBotAutomation.Infrastructure\bin\Debug\net8.0\PdfBotAutomation.Domain.dll
+C:\ProjetosPessoais\PdfBotAutomation\PdfBotAutomation.Infrastructure\bin\Debug\net8.0\PdfBotAutomation.Domain.pdb
+C:\ProjetosPessoais\PdfBotAutomation\PdfBotAutomation.Infrastructure\obj\Debug\net8.0\PdfBotAu.5470B722.Up2Date
+C:\ProjetosPessoais\PdfBotAutomation\PdfBotAutomation.Infrastructure\obj\Debug\net8.0\PdfBotAutomation.Infrastructure.dll
+C:\ProjetosPessoais\PdfBotAutomation\PdfBotAutomation.Infrastructure\obj\Debug\net8.0\refint\PdfBotAutomation.Infrastructure.dll
+C:\ProjetosPessoais\PdfBotAutomation\PdfBotAutomation.Infrastructure\obj\Debug\net8.0\PdfBotAutomation.Infrastructure.pdb
+C:\ProjetosPessoais\PdfBotAutomation\PdfBotAutomation.Infrastructure\obj\Debug\net8.0\ref\PdfBotAutomation.Infrastructure.dll

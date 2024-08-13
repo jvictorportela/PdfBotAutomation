@@ -1,0 +1,11 @@
+C:\ProjetosPessoais\PdfBotAutomation\PdfBotAutomation.Domain\bin\Debug\net8.0\PdfBotAutomation.Domain.deps.json
+C:\ProjetosPessoais\PdfBotAutomation\PdfBotAutomation.Domain\bin\Debug\net8.0\PdfBotAutomation.Domain.dll
+C:\ProjetosPessoais\PdfBotAutomation\PdfBotAutomation.Domain\bin\Debug\net8.0\PdfBotAutomation.Domain.pdb
+C:\ProjetosPessoais\PdfBotAutomation\PdfBotAutomation.Domain\obj\Debug\net8.0\PdfBotAutomation.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosPessoais\PdfBotAutomation\PdfBotAutomation.Domain\obj\Debug\net8.0\PdfBotAutomation.Domain.AssemblyInfoInputs.cache
+C:\ProjetosPessoais\PdfBotAutomation\PdfBotAutomation.Domain\obj\Debug\net8.0\PdfBotAutomation.Domain.AssemblyInfo.cs
+C:\ProjetosPessoais\PdfBotAutomation\PdfBotAutomation.Domain\obj\Debug\net8.0\PdfBotAutomation.Domain.csproj.CoreCompileInputs.cache
+C:\ProjetosPessoais\PdfBotAutomation\PdfBotAutomation.Domain\obj\Debug\net8.0\PdfBotAutomation.Domain.dll
+C:\ProjetosPessoais\PdfBotAutomation\PdfBotAutomation.Domain\obj\Debug\net8.0\refint\PdfBotAutomation.Domain.dll
+C:\ProjetosPessoais\PdfBotAutomation\PdfBotAutomation.Domain\obj\Debug\net8.0\PdfBotAutomation.Domain.pdb
+C:\ProjetosPessoais\PdfBotAutomation\PdfBotAutomation.Domain\obj\Debug\net8.0\ref\PdfBotAutomation.Domain.dll
